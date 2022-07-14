@@ -125,7 +125,7 @@ Node.js는 `비동기 I/O를 지원`하며 `단일 스레드 이벤트 루프` �
 
 <div align="center">
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fct8Xi1%2FbtrHiFNJxot%2FZF1idUDUq3YN66zfsUfDz0%2Fimg.webp" width="80%" height="50%">
-(https://survey.stackoverflow.co/2022/)
+https://survey.stackoverflow.co/2022/
 </div>
 
 ## 2.4 자바스크립트의 특징
